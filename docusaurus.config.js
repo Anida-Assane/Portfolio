@@ -84,19 +84,19 @@ const config = {
             items: [
               {
                 label: "Terraform",
-                to: "/blog",
+                to: "/docs/category/terraform",
               },
               {
                 label: "Ansible",
-                to: "/blog",
+                to: "/docs/category/ansible",
               },
               {
                 label: "Jenkins",
-                to: "/blog",
+                to: "/docs/category/jenkins",
               },
               {
                 label: "Kubernetes",
-                to: "/blog",
+                to: "/docs/category/kubernetes",
               },
 
               // ... plus d'éléments
