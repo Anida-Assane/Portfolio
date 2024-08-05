@@ -5,32 +5,31 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Mes projets",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/projet.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Ici, je présentes tous les projets sur lesquels j'ai travaillée dans mon
+        parcous devops, intégarnt les outils et implentant les différentes
+        pratiques devops tels que le monitoring continu, l'IaC,le CI/CD...
       </>
     ),
   },
   {
     title: "Mon blog",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/blog.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Sur mon blog, je partage avec passion des articles sur les dernières
+        actualités, les meilleures pratiques, et des astuces précieuses pour
+        vous aider à maîtriser les technologies du Cloud et DevOps.
       </>
     ),
   },
   {
-    title: "Une documentation",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Mes Badges|certifications",
+    Svg: require("@site/static/img/documentation.svg").default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>Mes réalisations, certifications et badges sons partagées ici aussi.</>
     ),
   },
 ];
