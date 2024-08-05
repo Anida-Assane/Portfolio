@@ -23,8 +23,6 @@ Ainsi, l'hyperviseur sera contacté pour créer la machine virtuelle.
 
 Ci dessous, une vidéo explicative de l'architecture de vagrant fais a l'aide du logiciel en ligne draw.io
 
-<video src="/videos/vagrant.mp4" width="600" height="300" controls></video>
-
 Une fois les machines crées, l'utilisateur pourras se connecter aux machines a l'aide de SSH grace a la commande
 
 ```
