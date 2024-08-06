@@ -1,0 +1,8 @@
+{
+  "label": "Ingénierie Logiciel",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Projets réalisés avec la technologie Iac Ansible."
+  }
+}
