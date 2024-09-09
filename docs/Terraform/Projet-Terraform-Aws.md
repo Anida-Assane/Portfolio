@@ -1,4 +1,4 @@
-# CONTEXTE
+# Projet Terraform Aws
 
 Ce projet présente l'utilisation et la mise en pratique de l'outil d'infrastructure as code Terraform, pour l'approvisionnenment d'une infrastructure sur le fournisseur cloud AWS.
 
