@@ -14,3 +14,5 @@ Il permet de tirer partit des memes avantages que celui du code logiciel(version
 ### TERRAFORM
 
 Cet outil est utilisé pour approvisionner l'infrastructure en terme de ressources(calcul, stockage...etc)
+
+Jesner Landa le beau des beaux
