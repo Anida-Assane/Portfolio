@@ -104,7 +104,7 @@ const config = {
           },
 
           { label: "Blog", position: "left", to: "/blog" },
-          { label: "A propos", position: "right", to: "/about" },
+          { label: "A propos", position: "right", to: "/blog" },
           { label: "Mon CV", position: "right", to: "/blog" },
           {
             type: "dropdown",
