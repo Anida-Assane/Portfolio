@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Le site d'une junior DevSecOps",
+  title: "Le site d'une DevSecOps",
   tagline: "Ce site présentes",
   favicon: "img/devsecops.webp",
 
@@ -79,7 +79,7 @@ const config = {
           },
           {
             type: "dropdown",
-            label: "Sujets",
+            label: "Projets",
             position: "left",
             items: [
               {
@@ -104,7 +104,7 @@ const config = {
           },
 
           { label: "Blog", position: "left", to: "/blog" },
-          { label: "A propos", position: "right", to: "/blog" },
+          { label: "A propos", position: "right", to: "/about" },
           { label: "Mon CV", position: "right", to: "/blog" },
           {
             type: "dropdown",
